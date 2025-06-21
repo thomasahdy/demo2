@@ -1,4 +1,4 @@
-# demo2 - Social Network Backend
+#  Social Network Backend
 
 ## Project Description
 
